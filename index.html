@@ -1,0 +1,34 @@
+---
+layout: default
+author: Andy Brown
+title: Graphic Designer and Web Developer Andy Brown
+description: The online blog of designer, animator, and business man Andy Brown
+keywords: "andy brown, portfolio, portfolio design, e portfolio, web design, blog design, graphic, designer, design, logos, animator, cardiff, wales, glam, lil legz, legs, jekyll, static, blogging"
+priority: 1.0
+changefreq: weekly
+lang: en
+robots: index, follow
+postimage: /img/thumb.jpg
+---
+
+    <section class="site-break clear">
+		<h3>"Andy Brown. Designer &amp; front-end developer<br> based in South Wales, UK..."</h3>
+	</section>
+  
+   	<section class="blog-home clear">
+   	
+		<div class="posts-block">
+			<h2>Blog</h2>
+			
+			<ul id="blog-home" class="posts">
+				{% for post in paginator.posts limit:7 %}
+					<li><a href="{{ BASE_PATH }}{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li>
+				{% endfor %}
+			</ul>
+			
+			<div class="view-all">
+				<a href="{{ site.url }}/blog/" title="read more blog posts">&lt; Read More Blog Posts &gt;</a>
+			</div>
+		</div>
+		
+	</section>

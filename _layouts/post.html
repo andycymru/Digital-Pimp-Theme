@@ -1,0 +1,32 @@
+---
+comments: true
+---
+{% include head.html %}
+
+<body>
+
+	{% include header2.html %}   
+
+	<section class="site-break2 clear">
+		<h2>&#124; {{page.title}} &#124;</h2>
+		<div class="time">Posted on: {{ page.date | date: "%d %B %Y" }} | By: {{site.name}}</div>
+	</section>
+	
+	<section>
+		<article>
+			<div class="postimage" title="{{page.title}}"><img src="{{ site.url }}/uploads/posts/{{page.image}}" alt="{{page.title}}" title="{{page.title}}">{% if page.sourcename %}<span><a href="{{ page.sourceaddress }}" title="image source: {{ page.sourcename }}" target="_blank">Image source: {{ page.sourcename }}</a></span>{% endif %}</div>
+			{{content}}
+			
+			{% include post-social.html %}
+			{% include post-tags.html %}			
+			{% include mailing-list.html %}
+			{% include recent-posts.html %}
+
+		<div class="view-all"><a href="{{site.url}}/blog/" title="Go back to all blog posts">&lt;&lt; View All Posts</a></div>
+		</article>
+	</section>
+
+	{% include footer.html %}
+
+</body>
+</html>

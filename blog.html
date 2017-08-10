@@ -1,0 +1,14 @@
+---
+layout: page
+title: Andy Brown's Blog
+robots: index, follow
+---
+
+   	<section class="blog-page clear">
+ 		<div class="posts-block">
+			{% for post in site.posts %}
+				<ul id="blog-home" class="posts-page">
+					<li><a href="{{ BASE_PATH }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li>
+				</ul>
+			{% endfor %}
+	</section>

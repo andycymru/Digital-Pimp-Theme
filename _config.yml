@@ -1,0 +1,26 @@
+name: Andy Brown
+description: 'Creative blog by Andy Brown'
+markdown: kramdown
+url: 'http://www.andy.cymru'
+baseurl: "http://www.andy.cymru"
+permalink: pretty
+exclude: ['README.md']
+paginate: 5 # pagination based on number of posts
+gems: [jekyll-paginate]
+
+email: andy@andy.cymru
+twitter: lillegz
+facebook: lillegz
+instagram: lillegz
+snapchat: lillegz
+linkedin:
+githubprofile:
+tumblr:
+spotify:
+googleplus:
+behance:
+soundcloud:
+pinterest:
+youtube:
+deviantart:
+vimeo:

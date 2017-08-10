@@ -1,0 +1,23 @@
+---
+layout: page
+title: Archive
+robots: noindex, nofollow
+---
+
+
+<section class="archive">
+
+	{% for post in site.posts %}
+    {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+    {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+        {% if month != nmonth %}
+            <ul>{% if forloop.index != 1 %}</ul>
+            {% endif %}
+            <h3>{{ post.date | date: '%B %Y' }} Posts</h3>
+			<ul>
+			{% endif %}
+				<li><time>{{ post.date | date: "%d/%m/%Y" }}</time> - <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
+			</ul> 		
+	{% endfor %}
+
+</section>

@@ -1,0 +1,16 @@
+<div class="recent-posts">
+
+<h2>Posts you may also like</h2>
+
+{% for post in site.posts limit:4 %}
+
+<ul>
+	<li>
+		<a href="{{ BASE_PATH }}{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+		<img src="{{ site.url }}/uploads/posts/{{post.image}}" alt="{{post.title}}" title="{{post.title}}">{{ post.title }}</a>
+	</li>
+</ul>
+
+{% endfor %}
+
+</div>

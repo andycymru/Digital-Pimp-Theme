@@ -1,0 +1,44 @@
+<footer class="footer clear">
+	
+	{% include social.html %}
+	
+	<p><span>&copy;{{site.name}} {{ site.time | date: '%Y' }} |</span> <span><a href="{{site.url}}/feed.xml">RSS</a> &bullet; <a href="{{site.url}}/sitemap.xml">Sitemap</a></span></p>
+	
+	<div class="andycymru"><a href="http://www.andy.cymru" title="Website design & created by: andy.cymru" target="_blank">Andy<Span>.Cymru</Span></a></div>
+	
+</footer>
+
+{% include analytics.html %}
+
+<script data-cfasync="false" type="text/javascript" src="//filamentapp.s3.amazonaws.com/e7267504cd99cb65a8ff2ca4dec4d12f.js" async="async"></script>
+   
+    <script>
+		var roundButton = document.querySelector("#roundButton")
+		var Slidenav = document.querySelector("#Slidenav")
+		
+			roundButton.addEventListener("click", showMenu, false)
+			Slidenav.addEventListener("click", hideMenu, false)
+			
+			function showMenu(e){
+				Slidenav.classList.add("show")
+				document.body.style.overflow = "hidden"
+			}
+			function hideMenu(e){
+				Slidenav.classList.remove("show")
+				e.stopPropagation();
+				document.body.style.overflow = "auto"
+			}
+	var contactform =  document.getElementById('contactform');
+    contactform.setAttribute('action', '//formspree.io/' + 'andy' + '@' + 'andy' + '.' + 'cymru');
+    </script>
+    
+	<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:417874,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>

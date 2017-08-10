@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy Brown</title>
+    <description>Creative blog by Andy Brown</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+     <image>
+	  <url>http://localhost:4000/uploads/posts/Wales.jpg</url>
+	  <title>Dydd Gŵyl Dewi Hapus I Chi Gyd</title>
+	  <link>http://localhost:4000/Dydd-Gwyl-Dewi-hapus-i-chi-gyd/</link>
+	 </image>
+      <item>
+        <title>Dydd Gŵyl Dewi Hapus I Chi Gyd</title>
+        <description>&lt;p&gt;Today is one of my favourite days on the calendar as it’s a day that celebrates the the patron saint of Wales alongside the country, our own language and its heritage that I was born and bread in. It’s the one day where everyone who is welsh or linked to our small country Wales comes together and celebrates with having a great time. It’s such a positive happy day for everyone.&lt;/p&gt;
+
+&lt;p&gt;School children dress up and put on shows in their eisteddfod all over the country, there is a parade in the towns and villages, people dress in traditional welsh attire or celebrate by wearing a red top, people bake homemade welsh cakes and some areas do leek eating competitions. The celebrations on March 1st have gone on for centuries and it’s fantastic that the tradition is still going strong.&lt;/p&gt;
+
+&lt;p&gt;Over the years I have took part in many events starting with the eisteddfod in school, poetry competitions, making welsh cakes. I have many great memories of things we got up to and long may it continue.&lt;/p&gt;
+
+&lt;p&gt;The nature of welsh people are often humourously self depricating and we do unfourtunatly take a bit of flack for our traditions of speaking our own language, but we have a warm open-hearted culture and St Davids day brings everyone together to showcase how fantastic our country is. Nothing warms our heart more than to see the dragon flying high on our flags. Happy St David’s Day everyone.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/Dydd-Gwyl-Dewi-hapus-i-chi-gyd/</link>
+        <guid isPermaLink="true">http://localhost:4000/Dydd-Gwyl-Dewi-hapus-i-chi-gyd/</guid>
+      </item>
+    
+     <image>
+	  <url>http://localhost:4000/uploads/posts/Wordpress.jpg</url>
+	  <title>My Wordpress Hiatus</title>
+	  <link>http://localhost:4000/my-wordpress-hiatus/</link>
+	 </image>
+      <item>
+        <title>My Wordpress Hiatus</title>
+        <description>&lt;p&gt;I have been using wordpress for many years and majority of the time it has been my ‘go-to’ solution when designing websites. It offers such a scope ranging from various themes, plugins, cms, e-commerce, plus I even built my own themes and plugins to suit my clients exact needs. It is a complete package for most businesses all under one roof.&lt;/p&gt;
+
+&lt;p&gt;But then there is a point where relationships go stale and wordpress became like no other. I began to get tired of wasting time constantly updating either the main core system or individual plugins. I understand why there are updates but it becomes teadious, especially if you are maintaining 50+ websites, updating starts to take over your life. Once updates are done, you then need to double check security, backup databases, make sure the comments havent had a spam bot added etc.. thus can result in more work on the maintencance side than it was to build the initial website in the beginning. Now i’m not doing wordpress any injustice here, I think its a brilliant product but for me it is more time consuming than what it’s worth.&lt;/p&gt;
+
+&lt;p&gt;So I found a new wave of up and coming solutions in the form of ‘static generators’ Jekyll being the leading product at the moment. It means that you can create a fully functional html/css/java site within minutes without the need of having to install databases, security, updates, new/old plugins etc.. The websites are very fast to run, they are simple and quick to develop, security is tight as their is nothing to hack, and their is a whole magnitude of plugins to create extra features. So this began my wordpress hiatus…&lt;/p&gt;
+
+&lt;p&gt;I found that often clients suited a static site far better than a wordpress solution simply because if they do not feel comfortable updating their website themselves then wordpress is pointless and too bulky. Ie. if a client needs a 3 page design, home, bio/services, contact, why build a wordpress site when 90% is running a hackable database that needs updating weekly and doesnt need to be run. Setup a static site and that will be quicker and have better SEO results, plus it can have simular features on the front end. Its becoming so useful to my clients that when I receive a job I think site generator first, if that will not work then look at a wordpress/drupal/magento solution. No point traveling in a fighter jet plane to go two streets down the road for a pint of milk.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/my-wordpress-hiatus/</link>
+        <guid isPermaLink="true">http://localhost:4000/my-wordpress-hiatus/</guid>
+      </item>
+    
+     <image>
+	  <url>http://localhost:4000/uploads/posts/jekyll-phone.jpg</url>
+	  <title>Calling It Quits</title>
+	  <link>http://localhost:4000/Calling-it-quits/</link>
+	 </image>
+      <item>
+        <title>Calling It Quits</title>
+        <description>&lt;p&gt;Sometimes leaving a project or client (with notice) can do your work and personal life wonders. It means you can move on and try something new using a different mindset or outlook. Dead end projects that do not inspire you can lead you in to a rut, which can be really hard to break out of. It’s important to build an exit strategy for all clients and projects should you wish to leave them at any time. Now this article is not about having a bad day or not liking a brief task, its more about if you start to sense cracks in your work life its time to start planning your next pathway.&lt;/p&gt;
+
+&lt;p&gt;Projects or jobs can get stale when you are constantly working on them for long periods. You can start to get bored of the same routines and faces which can lead you to start contemplating your own worth. This is the perfect time to change and clear your desk and mind. It’s a perfect opportunity to bring something new in that might require a skill you don’t often get to use or a skill you maybe would love to do regularly and makes you happy. Maybe you can follow a passion of yours.&lt;/p&gt;
+
+&lt;p&gt;Clients along with projects can also get stale, especially when they have a constant narrow vision and things must always be on their terms in their way. This can break you down after a while as you are constantly fighting to make sure the clients project is done properly, especially if your name is attached to the front of the project. You must educate a client but some still have a weird, un-educated view on how something should be done, yet you must abide by their final say and roll with it.&lt;/p&gt;
+
+&lt;p&gt;As soon as you notice your project or client getting stale or you’re getting bored, finding it hard to motivate yourself to work, its time to get out and move on. The longer you remain trying to work things out you are wasting time, ok you’re earning money, but it’s at the expense of your sanity and happiness.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/Calling-it-quits/</link>
+        <guid isPermaLink="true">http://localhost:4000/Calling-it-quits/</guid>
+      </item>
+    
+     <image>
+	  <url>http://localhost:4000/uploads/posts/jekyll-phone.jpg</url>
+	  <title>Re-evaluating improves your vision</title>
+	  <link>http://localhost:4000/re-evaluating-improves-your-vision/</link>
+	 </image>
+      <item>
+        <title>Re-evaluating improves your vision</title>
+        <description>&lt;p&gt;I am a terrible goal setter! There we go I admit it! Just throwing it out there. My problem is I go through fazes of setting big/small goals sometimes I reach them, sometimes I don’t. On the whole, goal setting never really sits well with me. I prefer to have ideas of what I would potentially like to do, but it is never fully set in stone as life can always change and flip your world up side down. So I set vision ideas rather than specific goals so I can adapt if needed to.&lt;/p&gt;
+
+&lt;p&gt;What I find that works for me is randomly small evaluations of my work/life, and a big evaluation in the lull between christmas and new year. Then I setup a to-do list based on that evaluation and I stick to it. This process has subconsciously been one I have consistently done all my business career and has always worked well for me. It helps your vision because it helps you to spot when things go wrong quicker and helps you to not be so solid fixed in goals and adapt as things evolve.&lt;/p&gt;
+
+&lt;p&gt;My evaluation is often made up of a few thoughts on how things are going and if they are helping or hindering what I was the outcome to be. I split them in to 5 areas so I can work out whats working and not, what changes I need to make in order to move on.&lt;/p&gt;
+
+&lt;p&gt;The subjects under each heading can vary depending on what i’m doing at the time, so yours might be different. But here are a few ideas.&lt;/p&gt;
+
+&lt;h2 id=&quot;work&quot;&gt;Work&lt;/h2&gt;
+&lt;p&gt;Is it going well and making you smile? Great! If not? How can I change that. Do I need to switch departments, skills, less/more hours, even switch jobs. Do I need to go on a course? Is a side business an option to make more cash? / friends? / opportunity to help?&lt;/p&gt;
+
+&lt;h2 id=&quot;hobbies&quot;&gt;Hobbies&lt;/h2&gt;
+&lt;p&gt;Do I have any hobbies? are my hobbies working well for me? or killing too much of my downtime? Do your hobbies make you happy? If not why? Do I need more/less hobbies? Can I turn any hobbies in to a side business if needed?&lt;/p&gt;
+
+&lt;h2 id=&quot;family--social&quot;&gt;Family &amp;amp; Social&lt;/h2&gt;
+&lt;p&gt;Do I see/speak to the people close too me? and if not how can I change that. Are my friends/family happy or time/mind killers? Do I need to increase/decrease my friend circle? Do I get the right support I need?&lt;/p&gt;
+
+&lt;h2 id=&quot;future&quot;&gt;Future&lt;/h2&gt;
+&lt;p&gt;Is my current job sustainable? what do I want to do in the future for hobbies? Living? Relationships? Family? How am I improving this or what steps do I need to improve? What do you want to do next year?&lt;/p&gt;
+
+&lt;h2 id=&quot;ideas&quot;&gt;Ideas&lt;/h2&gt;
+&lt;p&gt;Any random ideas you wish to do? Anything on your bucket list you fancy ticking off? Anything new you would like to try, learn, visit, experience.&lt;/p&gt;
+
+&lt;p&gt;It’s all about working out what works and what doesn’t, plus getting that balance right. Before you need to make a change in a certain area. Sometimes certain areas have a knock on effect e.g a friend is always depressing around you and this makes you depressed so you start hating work for no reason, or a hobby goes really well, you love it and it could become a side/main business. so its important to evaluate regularly so you can work out whats going to plan.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/re-evaluating-improves-your-vision/</link>
+        <guid isPermaLink="true">http://localhost:4000/re-evaluating-improves-your-vision/</guid>
+      </item>
+    
+     <image>
+	  <url>http://localhost:4000/uploads/posts/jekyll-phone.jpg</url>
+	  <title>Oprah Master Class</title>
+	  <link>http://localhost:4000/Oprah-Master-Class/</link>
+	 </image>
+      <item>
+        <title>Oprah Master Class</title>
+        <description>&lt;p&gt;There is a tv program on the TLC channel in the UK called ‘Oprah: Master Class’ and its brilliant. It’s a program that interviews people who have reached the top of their game and they talk about it. It seems boring, but being Oprah she always gets to the root of people and she always seems to get the information from that person to help inspire others. I found the program quite inspiring for various reasons.&lt;/p&gt;
+
+&lt;p&gt;The two episodes I have seen are from series one and the successors were Jayz who spoke about his rise to a leading figure head in black music and his musical craft. The other episode was with Simon Cowell who I found very inspiring. Forget the Simon you see on tv, thats a showbiz character, behind the smoking mirror he is a humble, hard working, business man that works his nuts off to get his projects to work. Jay-z also showcased a hardcore work ethic along with a maturity to make sure he stayed at the top of his game, in an industry of short life spans.&lt;/p&gt;
+
+&lt;p&gt;There are many episodes (I think they are on series 5 now) and many celebs for people to watch and take pockets of information from. It’s worth a watch to hear some cool stories from the people that have done it.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/Oprah-Master-Class/</link>
+        <guid isPermaLink="true">http://localhost:4000/Oprah-Master-Class/</guid>
+      </item>
+    
+     <image>
+	  <url>http://localhost:4000/uploads/posts/jekyll-phone.jpg</url>
+	  <title>Jekyll from my phone</title>
+	  <link>http://localhost:4000/Jekyll-from-my-phone/</link>
+	 </image>
+      <item>
+        <title>Jekyll from my phone</title>
+        <description>&lt;p&gt;Since moving my website from wordpress i’ve slowly developed techniques that were originally second nature. I mainly updated my website via the wordpress app on my phone so moving to &lt;a href=&quot;http://www.jekyllrb.com&quot; title=&quot;Jekyll&quot;&gt;Jekyll&lt;/a&gt; i didn’t know an app even existed. well…. one does. It’s called ‘octopage’ and does exactly what the wordpress app does but develops jekyll pages instead.&lt;/p&gt;
+
+&lt;p&gt;The app is brilliant, as it means we can write articles on the move. You can also amend your pages markdown so your content doesnt break. fantastic stuff!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/Jekyll-from-my-phone/</link>
+        <guid isPermaLink="true">http://localhost:4000/Jekyll-from-my-phone/</guid>
+      </item>
+    
+     <image>
+	  <url>http://localhost:4000/uploads/posts/welcome.jpg</url>
+	  <title>This is my first blog post</title>
+	  <link>http://localhost:4000/my-first-blog-post/</link>
+	 </image>
+      <item>
+        <title>This is my first blog post</title>
+        <description>&lt;p&gt;This is my first blog post on my new static website. This site has been designed from the bottom up and built on just pure html and css. I have a good feeling about this website and the process I took to building it. I dont know why i feel it, but i started writing code many years ago, when Geocities was the ‘in’ thing and ‘comic sans’ was new and used on websites…yes I said websites. But never the less back then it was all about learning basic html and pushing the boundries as far as it can go to get a website looking amazing with web design in its infancy.&lt;/p&gt;
+
+&lt;p&gt;As programming and coding developed we had css coming in amongst other lanuguages asp.net, php, C++ etc.. and it got to a point where sitting down and builing a website you need to have skills in 6 languages, wireframeing, server side scripting skills, java, jquery knowledge and much more and it gets to a point where it gets way too complicated and fuzzy.&lt;/p&gt;
+
+&lt;p&gt;So it was very refreshing to strip all the filler stuff away, and take it back to basics. Develop a website with raw skills and make it look far better than comic sans! haha&lt;/p&gt;
+
+&lt;p&gt;Heres to a new start!!!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/my-first-blog-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/my-first-blog-post/</guid>
+      </item>
+    
+  </channel>
+</rss>

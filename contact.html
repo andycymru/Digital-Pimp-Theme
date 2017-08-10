@@ -1,0 +1,20 @@
+---
+layout: page
+title: Contact
+description: Contacting Andy Brown
+keywords: "contact, form"
+priority: 1.0
+lang: en
+robots: index, follow
+---
+
+<form action="https://formspree.io/andywebform@andy.cymru" method="POST" class="contactform">
+    <input type="text" name="name" placeholder="Your Name">
+    <input type="hidden" name="_subject" value="New submission!" />
+    <input type="email" name="_replyto" placeholder="Your Email">
+    <textarea name="message" placeholder="Your Message"></textarea>
+    <input type="hidden" name="_next" value="{{site.url}}/thanks/" />
+    <input type="text" name="_gotcha" style="display:none" />
+    
+    <button type="submit" value="Send">Send</button>
+</form>
